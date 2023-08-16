@@ -1,0 +1,17 @@
+@import url("./cabecalho.css");
+@import url("./login.css");
+@import url("./rodape.css");
+@import url("./cadrastro.css");
+@import url("./conteudo-index.css");
+@import url("./conteudo-agric.css");
+@import url("./conteudo-ia-efic.css");
+@import url("./inscricao-doa.css");
+@import url("./precisa-doacao.css");
+@import url("./breakpoint-cabec-1000px.css");
+@import url("./breakpoint-cabec-600px.css");
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
